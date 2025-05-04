@@ -1,10 +1,8 @@
 # <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> 风会吹很远
 
-> 全栈开发 | 持续学习
+> 全栈开发
 
-- 🚀 专注构建高性能的Web应用和移动解决方案
-- 📚 热爱网络技术和人工智能
-- 💡 喜欢解决复杂问题并分享技术经验
+- 💡 喜欢解决复杂问题和分享技术
 - 📫 联系我: **ieeLyon@163.com**
 
 ## 技术栈
